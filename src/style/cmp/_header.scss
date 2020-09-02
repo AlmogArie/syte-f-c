@@ -1,0 +1,50 @@
+@font-face {
+    font-family: sport;
+    src: url(../fonts/sport/Jerseyletters-lP5V.ttf);
+}
+
+.header {
+    
+    align-self: center;
+    width: 90%;
+    height: 10rem;
+    text-align: center;
+    box-shadow: 1px 1px 25px 1px white;
+    border-radius: 10px;
+    background: linear-gradient(100deg, black, #2c3044, black);
+
+    .company-name {
+        letter-spacing: 10px;
+        font-family: sport;
+        color: #c5aa64;
+        font-size: 4.5rem;
+        width: 90%;
+    }
+
+    .logo {
+        width: 4.5rem;
+        margin-bottom: 2.5rem;
+    }
+    
+  
+}
+
+@media(max-width:480px){
+    
+    .header {
+        width: 100%;
+        border-radius: 0;
+        
+        .logo{
+            margin-bottom: 3rem;
+            width: 3rem;
+        }
+
+        .company-name{
+            font-size: 1.5rem;
+        }
+        .logo{
+            margin-left: 1rem;
+        }
+    }
+}

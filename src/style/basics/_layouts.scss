@@ -1,0 +1,28 @@
+// HERE GOES ALL THE LAYOUT STYLING
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+.app {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+   
+    background-image: url("https://res.cloudinary.com/dop3m3sin/image/upload/v1598972695/soccer/vienna-reyes-qCrKTET_09o-unsplash_vdu3z5.jpg");
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-position: center;
+}
+
+
+
+
+
+
