@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/syte-f-c/static/css/main.5efc53b5.chunk.css",
+    "main.js": "/syte-f-c/static/js/main.583be698.chunk.js",
+    "main.js.map": "/syte-f-c/static/js/main.583be698.chunk.js.map",
+    "runtime-main.js": "/syte-f-c/static/js/runtime-main.5793f4ab.js",
+    "runtime-main.js.map": "/syte-f-c/static/js/runtime-main.5793f4ab.js.map",
+    "static/js/2.dc9a729a.chunk.js": "/syte-f-c/static/js/2.dc9a729a.chunk.js",
+    "static/js/2.dc9a729a.chunk.js.map": "/syte-f-c/static/js/2.dc9a729a.chunk.js.map",
+    "index.html": "/syte-f-c/index.html",
+    "precache-manifest.3dc7826faee8667b1d3bea63c6d85470.js": "/syte-f-c/precache-manifest.3dc7826faee8667b1d3bea63c6d85470.js",
+    "service-worker.js": "/syte-f-c/service-worker.js",
+    "static/css/main.5efc53b5.chunk.css.map": "/syte-f-c/static/css/main.5efc53b5.chunk.css.map",
+    "static/js/2.dc9a729a.chunk.js.LICENSE.txt": "/syte-f-c/static/js/2.dc9a729a.chunk.js.LICENSE.txt",
+    "static/media/global.scss": "/syte-f-c/static/media/Jerseyletters-lP5V.ea05c5a0.ttf",
+    "static/media/syte_club_logo.png": "/syte-f-c/static/media/syte_club_logo.1b3e3eac.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5793f4ab.js",
+    "static/js/2.dc9a729a.chunk.js",
+    "static/css/main.5efc53b5.chunk.css",
+    "static/js/main.583be698.chunk.js"
+  ]
+}
